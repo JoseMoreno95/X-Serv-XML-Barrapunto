@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://barrapunto.com/">
+<title>Barrapunto</title>
+<link>http://barrapunto.com/</link>
+<description>La informaci&#243;n que te interesa</description>
+<dc:language>EN</dc:language>
+<dc:rights>Copyleft 1999-2006, Barrapunto</dc:rights>
+<dc:date>2018-04-18T14:40:13+00:00</dc:date>
+<dc:publisher>Barrapunto S.L.</dc:publisher>
+<dc:creator>webmaster@barrapunto.com</dc:creator>
+<dc:subject>Tecnolog&#237;a, Software libre</dc:subject>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://espana.barrapunto.com/article.pl?sid=18/04/17/2154209&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=18/04/09/152223&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=18/04/07/1511246&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=18/04/05/0041200&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=18/03/14/1626209&amp;from=rss" />
+  <rdf:li rdf:resource="http://americas.barrapunto.com/article.pl?sid=18/03/08/2017211&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=18/03/08/1648217&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=18/03/08/1636250&amp;from=rss" />
+  <rdf:li rdf:resource="http://preguntas.barrapunto.com/article.pl?sid=18/02/26/1357200&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=18/02/25/1854237&amp;from=rss" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://barrapunto.com/images/topics/topicbarrapunto.png" />
+<textinput rdf:resource="http://barrapunto.com/search.pl" />
+</channel>
+
+<image rdf:about="http://barrapunto.com/images/topics/topicbarrapunto.png">
+<title>Barrapunto</title>
+<url>http://barrapunto.com/images/topics/topicbarrapunto.png</url>
+<link>http://barrapunto.com/</link>
+</image>
+
+<item rdf:about="http://espana.barrapunto.com/article.pl?sid=18/04/17/2154209&amp;from=rss">
+<title>Justicia infringi&#243; la LOPD por el fallo de LexNet</title>
+<link>http://espana.barrapunto.com/article.pl?sid=18/04/17/2154209&amp;from=rss</link>
+<description>LexNet, el sistema de notificaciones judiciales del ministerio de justicia de Espa&amp;#241;a (no en Cantabria, Pa&amp;#237;s Vasco, Navarra, limitadamente en Catalu&amp;#241;a) tuvo fallos de seguridad el 27 de julio y el 6 de agosto de 2017. Seg&amp;#250;n C. Otto de El Confidencial, la Agencia Espa&amp;#241;ola de Protecci&amp;#243;n de Datos ha declarado que la Subdirecci&amp;#243;n General de Nuevas Tecnolog&amp;#237;as de la Justicia cometi&amp;#243; una falta grave por dejar que los usuarios accediesen a buzones de otros cambiando los identificadores. LexNet ya recibi&amp;#243; cr&amp;#237;ticas en 2005</description>
+<dc:creator>Ricardo Estalm&#225;n (posted by nettizen)</dc:creator>
+<dc:date>2018-04-17T18:13:00+00:00</dc:date>
+<dc:subject>bug</dc:subject>
+<slash:section>es</slash:section>
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,5,2,1,1,1,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=18/04/09/152223&amp;from=rss">
+<title>Tor Messenger no se desarrollar&#225;</title>
+<link>http://barrapunto.com/article.pl?sid=18/04/09/152223&amp;from=rss</link>
+<description>Tor informa de que dejar&amp;#225;n de desarrollar Tor Messenger. Era un programa de charla sobre la red Tor cifrado con OTR. Utilizar&amp;#237;a redes como Jabber (XMPP), IRC, Google Talk, Facebook y Twitter para el transporte. Tras 11 versiones betas, lo abandonan porque el Instantbird en que se basaban est&amp;#225; abandonado desde octubre y segu&amp;#237;a habiendo un problema intr&amp;#237;nseco de retenci&amp;#243;n de metadatos por los servidores centralizados de los transportes. La EFF explica por qu&amp;#233; es dif&amp;#237;cil hacer un mensajero seguro.</description>
+<dc:creator>Ricardo Estalm&#225;n (posted by nettizen)</dc:creator>
+<dc:date>2018-04-09T11:19:00+00:00</dc:date>
+<dc:subject>privacidad</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=18/04/07/1511246&amp;from=rss">
+<title>&#191;Programas para gestionar actualizaciones de Ubuntu de forma centralizada?</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=18/04/07/1511246&amp;from=rss</link>
+<description>Uguntero nos cuenta: &amp;#171;Hola, quer&amp;#237;a conocer vuestra experiencia administrando m&amp;#250;ltiples servidores con Ubuntu u otros derivados de Debian en lo que a gesti&amp;#243;n de actualizaciones se refiere. &amp;#191;Hay programas que permitan conocer el estado de actualizaci&amp;#243;n de los distintos servidores, forzar la instalaci&amp;#243;n de actualizaciones, obtenci&amp;#243;n de estad&amp;#237;sticas, etc?&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-04-07T11:28:00+00:00</dc:date>
+<dc:subject>Ubuntu</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,5,3,2,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=18/04/05/0041200&amp;from=rss">
+<title>Salvar la voz de Stephen Hawking</title>
+<link>http://barrapunto.com/article.pl?sid=18/04/05/0041200&amp;from=rss</link>
+<description>Jason Fagone del San Francisco Chronicle ha publicado la historia de c&amp;#243;mo trabajadores de Silicon Valley intentaron actualizar la s&amp;#237;ntesis de voz de Stephen Hawking (recientemente fallecido). Hawking usaba un dispositivo CallText 5010 de SpeechPlus de finales de los 80. En 2009 los asistentes de Hawking empezaron a preocuparse por alternativas en caso de un fallo del hardware. El cient&amp;#237;fico se sent&amp;#237;a identificado con la voz y rechazaba otros productos m&amp;#225;s modernos. Desde Cambridge contactaron en 2014 con los extrabajadores de la ya desaparecida SpeechPlus, que intentaron rescatar informaci&amp;#243;n y hardware. Acabaron emulando por software el sintetizador y se lo presentaron a Hawking en una Raspberry Pi en enero de 2018. Tras su aceptaci&amp;#243;n, el siguiente paso era reimplementarlo en un port&amp;#225;til. Sin embargo, en febrero Hawking cay&amp;#243; enfermo. El art&amp;#237;culo incluye muestras de las distintas voces que Hawking ha ido probando.</description>
+<dc:creator>Ricardo Estalm&#225;n (posted by nettizen)</dc:creator>
+<dc:date>2018-04-04T19:59:00+00:00</dc:date>
+<dc:subject>musica</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>9</slash:comments>
+<slash:hit_parade>9,9,1,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=18/03/14/1626209&amp;from=rss">
+<title>Ha fallecido Stephen Hawking</title>
+<link>http://barrapunto.com/article.pl?sid=18/03/14/1626209&amp;from=rss</link>
+<description>Hoy ha fallecido Stephen Hawking a la edad de 76 a&amp;#241;os.</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-03-14T12:19:00+00:00</dc:date>
+<dc:subject>ciencia</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>13</slash:comments>
+<slash:hit_parade>13,13,4,2,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://americas.barrapunto.com/article.pl?sid=18/03/08/2017211&amp;from=rss">
+<title>California legislar&#225; el 'derecho a la reparaci&#243;n' de los dispositivos electr&#243;nicos</title>
+<link>http://americas.barrapunto.com/article.pl?sid=18/03/08/2017211&amp;from=rss</link>
+<description>El estado de California presentar&amp;#225; una Ley que regule el "derecho a la reparaci&amp;#243;n" de los dispositivos electr&amp;#243;nicos. Esta normativa exigir&amp;#225; que los fabricantes informen a los propietarios y servicios t&amp;#233;cnicos independientes sobre la reparaci&amp;#243;n, componentes y funcionamiento de los dispositivos electr&amp;#243;nicos que distribuyan.</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-03-08T15:09:00+00:00</dc:date>
+<dc:subject>Administraciones</dc:subject>
+<slash:section>americas</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=18/03/08/1648217&amp;from=rss">
+<title>&#191;Dos fotograf&#237;as en el mismo instante y al mismo objeto involuntariamente?</title>
+<link>http://barrapunto.com/article.pl?sid=18/03/08/1648217&amp;from=rss</link>
+<description>La respuesta en este curioso art&amp;#237;culo, &amp;#191;C&amp;#243;mo dos fot&amp;#243;grafos dispararon sin saberlo en el mismo milisegundo?.</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-03-08T11:39:00+00:00</dc:date>
+<dc:subject>Fotograf&#237;a</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,1,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=18/03/08/1636250&amp;from=rss">
+<title>Sobre la seguridad y privacidad en productos duraderos</title>
+<link>http://barrapunto.com/article.pl?sid=18/03/08/1636250&amp;from=rss</link>
+<description>Interesante reflexi&amp;#243;n de Ross Anderson acerca de la implementaci&amp;#243;n y mantenimiento de la seguridad y privacidad en productos duraderos tales como veh&amp;#237;culos y aparatos m&amp;#233;dicos en los que el software juega un papel muy importante. El art&amp;#237;culo en cuesti&amp;#243;n se puede descargar aqu&amp;#237;.</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-03-08T11:24:00+00:00</dc:date>
+<dc:subject>seguridad</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://preguntas.barrapunto.com/article.pl?sid=18/02/26/1357200&amp;from=rss">
+<title>&#191;Alg&#250;n sistema avanzado de gestionar IPs en una empresa?</title>
+<link>http://preguntas.barrapunto.com/article.pl?sid=18/02/26/1357200&amp;from=rss</link>
+<description>Un pobrecito hablador nos cuenta: &amp;#171;Hola. Acabo de llegar a una empresa bastante grande y me encuentro que no tienen demasiada documentaci&amp;#243;n. Una de las cosas que me gustar&amp;#237;a arreglar es la documentaci&amp;#243;n de las IPs, qu&amp;#233; pertenece a qu&amp;#233;, qu&amp;#233; est&amp;#225; activo, qu&amp;#233; es qu&amp;#233;... Ahora eso se lleva en una hoja excel, a mano, con los problemas de actualizaci&amp;#243;n y mantenimiento de tener que hacer ese trabajo a mano. Estuve viendo programas de IPAM (IP address management) pero viendo un poco por encima las soluciones que hay, no encuentro nada que se ajuste a lo que ser&amp;#237;a deseable: poder importar los datos de distintas fuentes: DHCP y DNS y dispositivos perimetrales (cortafuegos y encaminadores) y consolidarlos en una programa para consultar la infraestructura. No es exactamente un inventario de servidores u ordenadores de usuario, porque estoy muy interesado en tener tambi&amp;#233;n IPs de NAT y sus traducciones. Ser&amp;#237;a buena idea que el programa IPAM pudiera hacer ping peri&amp;#243;dicamente a los datos importados para comprobar si el sistema vive o no... por ahora no me interesar&amp;#237;a mucho m&amp;#225;s aunque en el futuro no lo s&amp;#233;. La pregunta es si alguien hace algo similar y c&amp;#243;mo o qu&amp;#233; utiliza. Yo he pensado en utilizar alg&amp;#250;n programa libre de IPAM y picar unos scripts propios que interroguen a los equipos perimetrales para sacar la informaci&amp;#243;n que me interesa. Lo mismo para DNS o DHCP... Saludos.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-02-26T10:11:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:section>preguntas</slash:section>
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,5,2,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=18/02/25/1854237&amp;from=rss">
+<title>Dropbox ahorr&#243; en dos a&#241;os casi 45 mills. de d&#243;lares con su propia infraestructura</title>
+<link>http://barrapunto.com/article.pl?sid=18/02/25/1854237&amp;from=rss</link>
+<description>V&amp;#237;a Hacker News, leo que Dropbox ahorr&amp;#243; en dos a&amp;#241;os casi 75 millones de d&amp;#243;lares construyendo su propia infraestructura tecnol&amp;#243;gica reduciendo de esta manera su dependencia de los servicios Web de Amazon, seg&amp;#250;n afirm&amp;#243; la propia empresa ante la Comisi&amp;#243;n de Bolsa y Valores de los Estados Unidos.</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2018-02-25T13:44:00+00:00</dc:date>
+<dc:subject>Almacenamiento</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<textinput rdf:about="http://barrapunto.com/search.pl">
+<title>Search Barrapunto</title>
+<description>Search Barrapunto stories</description>
+<name>query</name>
+<link>http://barrapunto.com/search.pl</link>
+</textinput>
+
+</rdf:RDF>
